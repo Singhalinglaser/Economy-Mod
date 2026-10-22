@@ -9,6 +9,9 @@ jobs:
   build:
     name: Build Minecraft 26.3 Mod
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: Economy-Mod-v3.2.1-ready
 
     steps:
       - name: Checkout repository
@@ -35,6 +38,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: thaimoney-fabric-26.3-jar
-          path: build/libs/*.jar
+          path: Economy-Mod-v3.2.1-ready/build/libs/*.jar
           if-no-files-found: error
           retention-days: 90
