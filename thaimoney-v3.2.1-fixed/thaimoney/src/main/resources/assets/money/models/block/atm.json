@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "top": "money:block/atm_top",
-    "bottom": "money:block/atm_bottom",
-    "side": "money:block/atm_side"
-  }
-}
