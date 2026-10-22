@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "LLL",
+    "LNL",
+    "LLL"
+  ],
+  "key": {
+    "L": "minecraft:leather",
+    "N": "minecraft:gold_nugget"
+  },
+  "result": {
+    "id": "money:wallet",
+    "count": 1
+  }
+}

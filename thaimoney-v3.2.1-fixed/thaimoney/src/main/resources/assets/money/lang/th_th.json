@@ -1,0 +1,13 @@
+{
+  "item.money.coin_1": "เหรียญ 1 บาท",
+  "item.money.coin_2": "เหรียญ 2 บาท",
+  "item.money.coin_5": "เหรียญ 5 บาท",
+  "item.money.coin_10": "เหรียญ 10 บาท",
+  "item.money.note_20": "ธนบัตร 20 บาท",
+  "item.money.note_50": "ธนบัตร 50 บาท",
+  "item.money.note_100": "ธนบัตร 100 บาท",
+  "item.money.note_500": "ธนบัตร 500 บาท",
+  "item.money.note_1000": "ธนบัตร 1,000 บาท",
+  "block.money.atm": "ตู้ ATM",
+  "item.money.wallet": "กระเป๋าสตางค์"
+}
